@@ -17,3 +17,7 @@ Jupyter notebooks covering data preparation, statistical modelling, machine lear
 
 ## How to run
 Open any notebook in Jupyter or [Google Colab](https://colab.research.google.com/) and run the cells from top to bottom.
+
+---
+
+👩‍💻 **Author:** [Shun Lei Phyu](https://github.com/ShunLeiPhyu)
